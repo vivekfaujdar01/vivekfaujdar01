@@ -67,10 +67,8 @@
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=your-blogging-platform-repo&theme=tokyonight)](https://github.com/vivekfaujdar01/your-blogging-platform-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=weather-app-repo&theme=tokyonight)](https://github.com/vivekfaujdar01/weather-app-repo)
-
-> Replace `your-blogging-platform-repo` and `weather-app-repo` with your actual repository names.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=Blogging_Platform-repo&theme=tokyonight)](https://github.com/vivekfaujdar01/your-blogging-platform-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=React_Activities&theme=tokyonight)](https://github.com/vivekfaujdar01/weather-app-repo)
 
 ---
 
