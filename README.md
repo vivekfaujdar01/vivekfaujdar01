@@ -60,7 +60,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekfaujdar01/vivekfaujdar01/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/vivekfaujdar01/vivekfaujdar01/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
