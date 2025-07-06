@@ -67,7 +67,7 @@
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=Blogging_Platform-repo&theme=tokyonight)](https://github.com/vivekfaujdar01/your-blogging-platform-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=Blogging_Platform&theme=tokyonight)](https://github.com/vivekfaujdar01/your-blogging-platform-repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivekfaujdar01&repo=React_Activities&theme=tokyonight)](https://github.com/vivekfaujdar01/weather-app-repo)
 
 ---
