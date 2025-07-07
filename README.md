@@ -31,6 +31,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
+## GFG Stats
+I'm a passionate coder and problem solver!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-GeeksforGeeks-0f9d58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/vivekfauyorn/" target="_blank">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=vivekfauyorn" alt="Vivek's GeeksforGeeks Stats" />
+  </a>
+</p>
+
+
+
+---
 
 ## 📊 GitHub Stats
 
