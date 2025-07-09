@@ -101,12 +101,5 @@ I'm a passionate coder and problem solver!
 
 ---
 
-<p align="center">Visitors Count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vivekfaujdar01/count.svg" />
-</p>
-
----
-
 _“Consistency beats intensity. Show up every day — even if it’s just a little.”_
 
