@@ -110,7 +110,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
   <a href="https://linkedin.com/in/vivek-faujdar-370ba3297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vivekfaujdar01@gmail.com">
+  <a href="mailto:vivekfaujdar06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
