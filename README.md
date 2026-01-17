@@ -52,17 +52,6 @@ I'm a passionate coder and enjoy the challenge of competitive programming to sha
 
 ---
 
-## 📈 My GitHub Activity
-
-Take a look at my coding journey and contributions on GitHub!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekfaujdar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vivek GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekfaujdar01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 Proud of my progress and contributions!
