@@ -52,26 +52,6 @@ I'm a passionate coder and enjoy the challenge of competitive programming to sha
 
 ---
 
-## 🏆 GitHub Achievements
-
-Proud of my progress and contributions!
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekfaujdar01&theme=algolia&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-Consistency is key! See my coding streak.
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekfaujdar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🐍 My Contribution Journey
 
 Witness my coding activity throughout the year!
