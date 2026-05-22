@@ -44,12 +44,6 @@ I'm a passionate coder and enjoy the challenge of competitive programming to sha
   <img src="https://img.shields.io/badge/-GeeksforGeeks-0f9d58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </p>
 
-<p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/vivekfauyorn/" target="_blank">
-    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=vivekfauyorn&theme=dark" alt="Vivek's GeeksforGeeks Stats" />
-  </a>
-</p>
-
 ---
 
 ## 🐍 My Contribution Journey
