@@ -62,5 +62,5 @@ I am an engineering student and Fullstack Developer who loves building clean, sc
 </p>
 
 <p align="center">
-  <i>"Consistency beats intensity. Build daily. Learn continuously. 🚀"</i>
+  <i>"Consistency beats intensity. Build daily. Learn continuously."</i>
 </p>
