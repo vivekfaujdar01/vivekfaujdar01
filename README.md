@@ -37,7 +37,6 @@ I am an engineering student and Fullstack Developer who loves building clean, sc
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekfaujdar01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekfaujdar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
