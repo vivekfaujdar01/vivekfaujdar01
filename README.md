@@ -34,14 +34,6 @@ I am an engineering student and Fullstack Developer who loves building clean, sc
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekfaujdar01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📌 Featured Projects
 
 * 🎓 **[SmartLearn](https://github.com/vivekfaujdar01/SmartLearn)**: An educational platform focused on secure, scalable learning environments.
